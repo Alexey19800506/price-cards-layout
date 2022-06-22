@@ -2,7 +2,7 @@
 
 
 
-  ### [Site link](https://github.com/Alexey19800506/foundation-layout)
+  ### [Site link](https://github.com/Alexey19800506/price-cards-layout)
 
 Layout supports only desktop (up-to-1400) versions
 
